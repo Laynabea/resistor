@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Laynabea/resistor.git
+git branch -M main
+git push -u origin main
+
+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
