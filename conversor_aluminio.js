@@ -1,4 +1,4 @@
-let resitencia = 0.0172  //0.0172 0. mm²/m condutor do cobre
+let resitencia = 0.0282  //0.0282 0. mm²/m condutor do alumínio
 
 let comprimento = 1555
 let secaoTransversal = 2.5  //o valor mínimo é 1 para não dividir por zero
